@@ -9,7 +9,7 @@ Unit System:
 - Force: N
 - Time: s
 - Frequency: Hz
-- Phase: s
+- Phase: s  
 *ALWAYS INPUT NUMBERS!!!*
 File:
 - Conditions.txt: this is where you input conditions.
