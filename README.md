@@ -16,6 +16,9 @@ File:
 - res.txt: this is where result is located.
 
 *ALWAYS INPUT NUMBERS!*
+
+Formats:
+- In Conditions.txt, you should input 3 numbers in a line (x, y, z, respectively), and add more lines if there are more conditions.
 ## To do list
 - GUI
 - Dev for other platforms?
