@@ -10,9 +10,11 @@ Unit System:
 - Time: s
 - Frequency: Hz
 - Phase: s
+
 File:
 - Conditions.txt: this is where you input conditions.
-- res.txt: this is where result is located.  
+- res.txt: this is where result is located.
+
 *ALWAYS INPUT NUMBERS!*
 ## To do list
 - GUI
