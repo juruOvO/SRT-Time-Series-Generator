@@ -10,10 +10,10 @@ Unit System:
 - Time: s
 - Frequency: Hz
 - Phase: s  
-*ALWAYS INPUT NUMBERS!!!*  
 File:
 - Conditions.txt: this is where you input conditions.
 - res.txt: this is where result is located.
+*ALWAYS INPUT NUMBERS!*
 ## To do list
 - GUI
 - Dev for other platforms?
