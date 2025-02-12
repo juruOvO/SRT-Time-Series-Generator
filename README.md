@@ -4,6 +4,15 @@ Time Series Load Generator for SRT (SJTU Racing Team).
 ## Program Versions
 - Core: Program with core module only.
 - GUI: Program with GUI.
+
+## Updates
+### Core
+#### v1.0
+- first released version
+### v1.1
+- fixed some typos
+- enhanced output syntax
+
 ## Note
 Unit System:
 - Force: N
